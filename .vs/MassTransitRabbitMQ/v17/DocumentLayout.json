@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Project\\MassTransitRabbitMQ\\MassTransitRabbitMQ\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4E01BB22-592B-4518-A4E8-1404F616F350}|Solution items{4E01BB22-592B-4518-A4E8-1404F616F350}|C:\\Users\\Project\\MassTransitRabbitMQ\\MassTransitRabbitMQ\\docker-compose.Dev.Infracstructure.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4E01BB22-592B-4518-A4E8-1404F616F350}|Solution items{4E01BB22-592B-4518-A4E8-1404F616F350}|solutionrelative:docker-compose.Dev.Infracstructure.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7C35769C-661C-429D-A593-C4922F43AC08}|src\\MassTransitRabbitMQ.Producer.API\\MassTransitRabbitMQ.Producer.API.csproj|c:\\users\\project\\masstransitrabbitmq\\masstransitrabbitmq\\src\\masstransitrabbitmq.producer.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7C35769C-661C-429D-A593-C4922F43AC08}|src\\MassTransitRabbitMQ.Producer.API\\MassTransitRabbitMQ.Producer.API.csproj|solutionrelative:src\\masstransitrabbitmq.producer.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -19,10 +23,6 @@
       "RelativeMoniker": "D:0:0:{7C35769C-661C-429D-A593-C4922F43AC08}|src\\MassTransitRabbitMQ.Producer.API\\MassTransitRabbitMQ.Producer.API.csproj|solutionrelative:src\\masstransitrabbitmq.producer.api\\denpendencyinjecttion\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E01BB22-592B-4518-A4E8-1404F616F350}|NewFolder2{4E01BB22-592B-4518-A4E8-1404F616F350}|C:\\Users\\Project\\MassTransitRabbitMQ\\MassTransitRabbitMQ\\docker-compose.Dev.Infracstructure.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4E01BB22-592B-4518-A4E8-1404F616F350}|NewFolder2{4E01BB22-592B-4518-A4E8-1404F616F350}|solutionrelative:docker-compose.Dev.Infracstructure.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7C35769C-661C-429D-A593-C4922F43AC08}|src\\MassTransitRabbitMQ.Producer.API\\MassTransitRabbitMQ.Producer.API.csproj|c:\\users\\project\\masstransitrabbitmq\\masstransitrabbitmq\\src\\masstransitrabbitmq.producer.api\\masstransitrabbitmq.producer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7C35769C-661C-429D-A593-C4922F43AC08}|src\\MassTransitRabbitMQ.Producer.API\\MassTransitRabbitMQ.Producer.API.csproj|solutionrelative:src\\masstransitrabbitmq.producer.api\\masstransitrabbitmq.producer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Project\\MassTransitRabbitMQ\\MassTransitRabbitMQ\\src\\MassTransitRabbitMQ.Producer.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "src\\MassTransitRabbitMQ.Producer.API\\Properties\\launchSettings.json",
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Project\\MassTransitRabbitMQ\\MassTransitRabbitMQ\\src\\MassTransitRabbitMQ.Producer.API\\appsettings.json",
               "RelativeDocumentMoniker": "src\\MassTransitRabbitMQ.Producer.API\\appsettings.json",
               "ToolTip": "C:\\Users\\Project\\MassTransitRabbitMQ\\MassTransitRabbitMQ\\src\\MassTransitRabbitMQ.Producer.API\\appsettings.json",
               "RelativeToolTip": "src\\MassTransitRabbitMQ.Producer.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-14T14:59:02.38Z",
               "IsPinned": true,
@@ -66,13 +66,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "docker-compose.Dev.Infracstructure.yaml",
               "DocumentMoniker": "C:\\Users\\Project\\MassTransitRabbitMQ\\MassTransitRabbitMQ\\docker-compose.Dev.Infracstructure.yaml",
               "RelativeDocumentMoniker": "docker-compose.Dev.Infracstructure.yaml",
               "ToolTip": "C:\\Users\\Project\\MassTransitRabbitMQ\\MassTransitRabbitMQ\\docker-compose.Dev.Infracstructure.yaml",
               "RelativeToolTip": "docker-compose.Dev.Infracstructure.yaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2024-03-14T14:40:14.722Z",
               "IsPinned": true,
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Project\\MassTransitRabbitMQ\\MassTransitRabbitMQ\\src\\MassTransitRabbitMQ.Producer.API\\Program.cs",
               "RelativeDocumentMoniker": "src\\MassTransitRabbitMQ.Producer.API\\Program.cs",
@@ -89,12 +89,11 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T14:53:43.473Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Project\\MassTransitRabbitMQ\\MassTransitRabbitMQ\\src\\MassTransitRabbitMQ.Producer.API\\DenpendencyInjecttion\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "src\\MassTransitRabbitMQ.Producer.API\\DenpendencyInjecttion\\Extensions\\ServiceCollectionExtensions.cs",
@@ -103,21 +102,19 @@
               "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T15:06:06.977Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MassTransitRabbitMQ.Producer.API",
+              "Title": "MassTransitRabbitMQ.Producer.API.csproj",
               "DocumentMoniker": "C:\\Users\\Project\\MassTransitRabbitMQ\\MassTransitRabbitMQ\\src\\MassTransitRabbitMQ.Producer.API\\MassTransitRabbitMQ.Producer.API.csproj",
               "RelativeDocumentMoniker": "src\\MassTransitRabbitMQ.Producer.API\\MassTransitRabbitMQ.Producer.API.csproj",
               "ToolTip": "C:\\Users\\Project\\MassTransitRabbitMQ\\MassTransitRabbitMQ\\src\\MassTransitRabbitMQ.Producer.API\\MassTransitRabbitMQ.Producer.API.csproj",
               "RelativeToolTip": "src\\MassTransitRabbitMQ.Producer.API\\MassTransitRabbitMQ.Producer.API.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-14T14:54:12.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-14T14:54:12.513Z"
             }
           ]
         }
