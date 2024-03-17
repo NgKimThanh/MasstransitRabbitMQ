@@ -1,0 +1,2 @@
+https://200lab.io/blog/rabbitmq-la-gi/
+docker compose -f docker-compose.Dev.Infracstructure.yaml up

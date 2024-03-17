@@ -10,9 +10,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{22D3E996-EAA0-4E17-A06E-BB5FA5350665}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitRabbitMQ.Producer.API", "src\MassTransitRabbitMQ.Producer.API\MassTransitRabbitMQ.Producer.API.csproj", "{7C35769C-661C-429D-A593-C4922F43AC08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassTransitRabbitMQ.Producer.API", "src\MassTransitRabbitMQ.Producer.API\MassTransitRabbitMQ.Producer.API.csproj", "{7C35769C-661C-429D-A593-C4922F43AC08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitRabbitMQ.Contract", "src\MassTransitRabbitMQ.Contract\MassTransitRabbitMQ.Contract.csproj", "{768312FF-A07C-4E66-AD97-BC8844ED033D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MassTransitRabbitMQ.Contract", "src\MassTransitRabbitMQ.Contract\MassTransitRabbitMQ.Contract.csproj", "{768312FF-A07C-4E66-AD97-BC8844ED033D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransitRabbitMQ.Consumer.API", "MassTransitRabbitMQ.Consumer.API\MassTransitRabbitMQ.Consumer.API.csproj", "{06D60FF3-9EFA-4AA3-BB05-BD2510DE3E9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,6 +30,10 @@ Global
 		{768312FF-A07C-4E66-AD97-BC8844ED033D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{768312FF-A07C-4E66-AD97-BC8844ED033D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{768312FF-A07C-4E66-AD97-BC8844ED033D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D60FF3-9EFA-4AA3-BB05-BD2510DE3E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D60FF3-9EFA-4AA3-BB05-BD2510DE3E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D60FF3-9EFA-4AA3-BB05-BD2510DE3E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D60FF3-9EFA-4AA3-BB05-BD2510DE3E9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -35,6 +41,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{7C35769C-661C-429D-A593-C4922F43AC08} = {22D3E996-EAA0-4E17-A06E-BB5FA5350665}
 		{768312FF-A07C-4E66-AD97-BC8844ED033D} = {22D3E996-EAA0-4E17-A06E-BB5FA5350665}
+		{06D60FF3-9EFA-4AA3-BB05-BD2510DE3E9C} = {22D3E996-EAA0-4E17-A06E-BB5FA5350665}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EE358EB6-0E0B-431F-821B-6EAFC4D9816C}

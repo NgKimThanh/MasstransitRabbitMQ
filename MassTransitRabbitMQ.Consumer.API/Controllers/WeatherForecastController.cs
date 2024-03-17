@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace MassTransitRabbitMQ.Producer.API.Controllers
+namespace MassTransitRabbitMQ.Consumer.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]

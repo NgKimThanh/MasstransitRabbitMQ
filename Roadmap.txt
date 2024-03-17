@@ -1,0 +1,4 @@
+Producer: API publish-sms-notification Publish DomainEvent.SmsNotificationEvent -> Tạo ra 2 exchange: 
+ - 1 cái là MassTransitRabbitMQ.Contract.IntegretionEvents:DomainEvent-SmsNotificationEvent
+ - 1 cái là MassTransitRabbitMQ.Contract.Abstractions.Messages:INotificationEvent
+-> Exchange MassTransitRabbitMQ.Contract.IntegretionEvents:DomainEvent-SmsNotificationEvent routing đến SendSmsWhenReceivedSmsEvent (Queue) do SendSmsWhenReceivedSmsEvent có thiết lập kết nối giữa consumer và producer

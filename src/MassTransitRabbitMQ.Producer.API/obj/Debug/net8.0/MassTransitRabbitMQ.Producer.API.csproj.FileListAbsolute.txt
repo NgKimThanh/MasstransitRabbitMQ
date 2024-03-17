@@ -34,3 +34,6 @@ C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ
 C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Producer.API\obj\Debug\net8.0\MassTransitRabbitMQ.Producer.API.pdb
 C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Producer.API\obj\Debug\net8.0\MassTransitRabbitMQ.Producer.API.genruntimeconfig.cache
 C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Producer.API\obj\Debug\net8.0\ref\MassTransitRabbitMQ.Producer.API.dll
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Producer.API\obj\Debug\net8.0\MassTransitRabbitMQ.Producer.API.sourcelink.json
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Producer.API\bin\Debug\net8.0\MassTransitRabbitMQ.Contract.dll
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Producer.API\bin\Debug\net8.0\MassTransitRabbitMQ.Contract.pdb

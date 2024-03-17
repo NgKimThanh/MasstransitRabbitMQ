@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4wgl/t3ePv+uHlUAIudc065BbKUrjJUIcESx5MApUq6s0WvYZWLdoqFVal2R0dkk2WZ1StjyfqYYa7s/ML1cAA==",
+  "dgSpecHash": "9B0vqQ8BZ4nTIOweuMxAxGYnDjULV4Rcc0vAhoaOEEKpZpkNks3atuY1yS5bhdsq/be41jkKD/jHwtDbMUSKgQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Project\\MassTransitRabbitMQ\\MassTransitRabbitMQ\\src\\MassTransitRabbitMQ.Producer.API\\MassTransitRabbitMQ.Producer.API.csproj",
   "expectedPackageFiles": [

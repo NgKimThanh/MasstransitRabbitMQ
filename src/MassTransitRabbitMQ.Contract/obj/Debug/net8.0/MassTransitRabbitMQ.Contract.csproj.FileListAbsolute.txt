@@ -1,0 +1,13 @@
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Contract\bin\Debug\net8.0\MassTransitRabbitMQ.Contract.deps.json
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Contract\bin\Debug\net8.0\MassTransitRabbitMQ.Contract.dll
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Contract\bin\Debug\net8.0\MassTransitRabbitMQ.Contract.pdb
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Contract\obj\Debug\net8.0\MassTransitRabbitMQ.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Contract\obj\Debug\net8.0\MassTransitRabbitMQ.Contract.AssemblyInfoInputs.cache
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Contract\obj\Debug\net8.0\MassTransitRabbitMQ.Contract.AssemblyInfo.cs
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Contract\obj\Debug\net8.0\MassTransitRabbitMQ.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Contract\obj\Debug\net8.0\MassTransitRabbitMQ.Contract.sourcelink.json
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Contract\obj\Debug\net8.0\MassTransitRabbitMQ.Contract.dll
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Contract\obj\Debug\net8.0\refint\MassTransitRabbitMQ.Contract.dll
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Contract\obj\Debug\net8.0\MassTransitRabbitMQ.Contract.pdb
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Contract\obj\Debug\net8.0\ref\MassTransitRabbitMQ.Contract.dll
+C:\Users\Project\MassTransitRabbitMQ\MassTransitRabbitMQ\src\MassTransitRabbitMQ.Contract\obj\Debug\net8.0\MassTransitRabbitMQ.Contract.csproj.AssemblyReference.cache

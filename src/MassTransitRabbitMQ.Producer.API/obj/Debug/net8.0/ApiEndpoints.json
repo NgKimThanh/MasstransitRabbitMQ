@@ -1,22 +1,12 @@
 [
   {
-    "ContainingType": "MassTransitRabbitMQ.Producer.API.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
+    "ContainingType": "MassTransitRabbitMQ.Producer.API.Controllers.ProducersController",
+    "Method": "PublishSmsNotificationEvent",
+    "RelativePath": "Producers",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[MassTransitRabbitMQ.Producer.API.WeatherForecast, MassTransitRabbitMQ.Producer.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   }
 ]

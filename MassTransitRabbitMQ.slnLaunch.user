@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "src\\MassTransitRabbitMQ.Producer.API\\MassTransitRabbitMQ.Producer.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "MassTransitRabbitMQ.Consumer.API\\MassTransitRabbitMQ.Consumer.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
