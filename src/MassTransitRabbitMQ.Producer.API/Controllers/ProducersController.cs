@@ -10,18 +10,18 @@ namespace MassTransitRabbitMQ.Producer.API.Controllers
     [Route("[controller]")]
     public class ProducersController : ControllerBase
     {
-        private readonly IPublishEndpoint _publisEndpoint;
+        private readonly IPublishEndpoint _publishEndpoint;
 
-        public ProducersController(IPublishEndpoint publisEndpoint)
+        public ProducersController(IPublishEndpoint publishEndpoint)
         {
-            _publisEndpoint = publisEndpoint;
+            _publishEndpoint = publishEndpoint;
         }
 
         // Hàm publish (gửi) event đến Exchange
         [HttpPost(Name = "publish-sms-notification")]
         public async Task<IActionResult> PublishSmsNotificationEvent()
         {
-            await _publisEndpoint.Publish(new DomainEvent.SmsNotificationEvent
+            await _publishEndpoint.Publish(new DomainEvent.SmsNotificationEvent
             {
                 Id = Guid.NewGuid(),
                 Description = "Sms description",

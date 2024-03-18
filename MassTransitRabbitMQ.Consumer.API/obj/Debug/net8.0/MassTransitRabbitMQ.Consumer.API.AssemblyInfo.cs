@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MassTransitRabbitMQ.Consumer.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab979ab3f5ddbf9f733f010a04f999ff14967c53")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+633fd7ba2ffaef469b4b8f44db80a5f85cf8f7f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MassTransitRabbitMQ.Consumer.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MassTransitRabbitMQ.Consumer.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
